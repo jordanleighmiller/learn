@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # FUNCTION: checkprime
 # ARGS: number = number to check if prime
 # RETURNS:
